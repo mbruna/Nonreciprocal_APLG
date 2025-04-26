@@ -1,0 +1,21 @@
+name = "APLG"
+
+[deps]
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
+KernelDensitySJ = "49dc5b4e-6806-4504-b2cc-a81764e7a38b"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+NonlinearSolve = "8913a72c-1f9b-4ce2-8d82-65094dcecaec"
+Peaks = "18e31ff7-3703-566c-8e60-38913d67486b"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+Roots = "f2b01f46-fcfa-551c-844a-d8ac1e96c665"
+SciPy = "ebc72ef8-9537-4fb0-b64e-ac76025fed2d"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+TensorOperations = "6aa20fa7-93e2-5fca-9bc0-fbd0db3c71a2"
+
+[compat]
+julia = "1.11.2"
